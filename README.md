@@ -19,7 +19,7 @@ This is the official PyTorch implementation of the paper:
 ## :wrench: Dependencies and Installation
 
 ```bash
-git clone https://github.com/fanzh03/EvenFormer.git
+git clone https://github.com/xin1u/EvenFormer.git
 cd EvenFormer
 pip install -r requirements.txt
 ```
