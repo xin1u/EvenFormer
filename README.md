@@ -146,7 +146,7 @@ python train_evenformer.py \
 If you find our repo useful for your research, please consider citing our paper:
 
 ```bibtex
-@InProceedings{Lu_2025_CVPR,
+@InProceedings{Lu_2025_CVPR_EvenFormer,
     author    = {Lu, Xin and Bao, Yuanfei and Yang, Jiarong and Hu, Anya and Xiao, Jie and Wang, Kunyu and Li, Dong and Xu, Senyan and Liu, Kean and Fu, Xueyang and Zha, Zheng-Jun},
     title     = {EvenFormer: Dynamic Even Transformer for Real-World Image Restoration},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
