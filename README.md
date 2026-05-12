@@ -3,7 +3,7 @@
 <a href='https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/papers/Lu_EvenFormer_Dynamic_Even_Transformer_for_Real-World_Image_Restoration_CVPRW_2025_paper.pdf'><img src='https://img.shields.io/badge/Paper-CVPRW2025-b31b1b.svg'></a> &nbsp;&nbsp;
 <a href='https://github.com/xin1u/EvenFormer'><img src='https://img.shields.io/badge/Code-GitHub-181717.svg'></a> &nbsp;&nbsp;
 
-## :trophy: Runner-Up of the CVPR 2025 Image Shadow Removal Challenge & 2nd Highest PSNR of the NTIRE 2025 Ambient Lighting Normalization Challenge
+## :trophy: Runner-Up of the CVPR 2025 Image Shadow Removal Challenge & 2nd Highest PSNR of the CVPR 2025 Ambient Lighting Normalization Challenge
 
 Our team achieved the **Runner-Up Award** in the [CVPR 2025 Image Shadow Removal Challenge](https://cvlai.net/ntire/2025/) and the **2nd highest PSNR** in the CVPR 2025 Ambient Lighting Normalization Challenge, with less than 1/10 of the parameters of the first-place solution (23M vs. 235M+).
 
